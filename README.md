@@ -460,7 +460,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 * [React Rails](https://github.com/reactjs/react-rails)
-* [React on Rails](https://github.com/elierotenberg/react-rails)
+* [React on Rails](https://github.com/shakacode/react_on_rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
